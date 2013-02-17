@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1021</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>765</ColumnWidth1><ColumnWidth2>204</ColumnWidth2><ColumnWidth3>51</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>347</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>0</ShowCodeCoverage><ShowInstrProfiling>0</ShowInstrProfiling></Disassembly>
+    <Register/><WATCH_1><expressions><item>pInformation</item><item>pProperty</item><item>buttons</item><item>Parameters</item><item>EMA</item><item>ar[2]</item><item>Keys[0]</item><item>Keys[1]</item><item>X</item><item>Y</item><item>gamePadReport</item><item></item></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>181</item><item>150</item><item>100</item><item>185</item></col-widths></WATCH_1></Static>
+    <Windows>
+      
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28675-7513</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-28153-7523</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-6656-7516</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>STM32_GamePad</ExpandedNode><ExpandedNode>STM32_GamePad/CMSIS</ExpandedNode><ExpandedNode>STM32_GamePad/USB_Driver</ExpandedNode><ExpandedNode>STM32_GamePad/USB_Proc</ExpandedNode></NodeDict></Session>
+          </Tab>
+        <Tab><Identity>TabID-9934-12313</Identity><TabName>Register</TabName><Factory>Register</Factory><Session><REG1>0</REG1><REG2>0</REG2><Group>30</Group><States>2</States><State0>RCC_APB1ENR</State0><State1>USB_CR</State1></Session></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd5><Tabs><Tab><Identity>TabID-19031-15213</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\lib\STM32F10x_StdPeriph_Lib_V3.5.0\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</Filename><XPos>0</XPos><YPos>1212</YPos><SelStart>33609</SelStart><SelEnd>33609</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\stm32f10x_it.c</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>2401</SelStart><SelEnd>2401</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>386</YPos><SelStart>11591</SelStart><SelEnd>11591</SelEnd></Tab><ActiveTab>2</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-03925e28><key>iaridepm.enu1</key></Toolbar-03925e28></Sizes></Row0><Row1><Sizes><Toolbar-0f5bb4b8><key>debuggergui.enu1</key></Toolbar-0f5bb4b8></Sizes></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>736</Bottom><Right>421</Right><x>-2</x><y>-2</y><xscreen>356</xscreen><yscreen>606</yscreen><sizeHorzCX>185417</sizeHorzCX><sizeHorzCY>601787</sizeHorzCY><sizeVertCX>220313</sizeVertCX><sizeVertCY>732870</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>736</Bottom><Right>711</Right><x>-2</x><y>-2</y><xscreen>450</xscreen><yscreen>621</yscreen><sizeHorzCX>234375</sizeHorzCX><sizeHorzCY>616683</sizeHorzCY><sizeVertCX>371354</sizeVertCX><sizeVertCY>732870</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>202</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>204</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>202582</sizeHorzCY><sizeVertCX>185417</sizeVertCX><sizeVertCY>601787</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
